@@ -1,0 +1,27 @@
+{
+    "name": "typescript-intro",
+    "version": "1.0.0",
+    "description": "An Introduction to Typescript",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "foo": "node ./node_modules/ts-node/dist/bin.js app.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/peter-stoyanov/typescript-intro.git"
+    },
+    "author": "Petar Stoyanov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/peter-stoyanov/typescript-intro/issues"
+    },
+    "homepage": "https://github.com/peter-stoyanov/typescript-intro#readme",
+    "dependencies": {
+        "ts-node": "^5.0.0",
+        "typescript": "^2.7.2"
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6"
+    }
+}
