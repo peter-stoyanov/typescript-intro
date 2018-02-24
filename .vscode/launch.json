@@ -7,10 +7,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
-            "program": "${workspaceFolder}/app.ts",
+            "name": "Launch Typescript",
+            "program": "${workspaceFolder}/src/app.ts",
+            //"cwd": "",
             "outFiles": [
-                "${workspaceFolder}/**/*.js"
+                "${workspaceFolder}/build/*.js"
             ]
         }
     ]

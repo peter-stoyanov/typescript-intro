@@ -1,0 +1,1 @@
+{"version":3,"file":"typed_callback.js","sourceRoot":"","sources":["../src/typed_callback.ts"],"names":[],"mappings":";AAAA,yBAAyB,WAAmB,EACxC,QAAgC;IAEhC,QAAQ,CAAC,WAAW,CAAC,CAAC;AAC1B,CAAC;AAED,oBAAoB,IAAY;IAC5B,OAAO,CAAC,GAAG,CAAC,oBAAoB,GAAG,IAAI,CAAC,CAAC;AAC7C,CAAC;AAED,eAAe,CAAC,QAAQ,EAAE,UAAU,CAAC,CAAC"}
